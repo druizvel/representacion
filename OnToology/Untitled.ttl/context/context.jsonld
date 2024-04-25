@@ -1,0 +1,10 @@
+{
+  "@context" : {
+    "InfartoMiocardio" : {
+      "@id" : "http://www.semanticweb.org/david/ontologies/2024/3/untitled-ontology-14/InfartoMiocardio"
+    },
+    "Libro" : {
+      "@id" : "http://www.semanticweb.org/david/ontologies/2024/3/untitled-ontology-14/Libro"
+    }
+  }
+}

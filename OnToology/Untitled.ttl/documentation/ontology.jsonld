@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.semanticweb.org/david/ontologies/2024/3/untitled-ontology-14",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
+}, {
+  "@id" : "http://www.semanticweb.org/david/ontologies/2024/3/untitled-ontology-14/InfartoMiocardio",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2002/07/owl#equivalentClass" : [ {
+    "@id" : "http://www.semanticweb.org/david/ontologies/2024/3/untitled-ontology-14/Libro"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/david/ontologies/2024/3/untitled-ontology-14/Libro",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+} ]
